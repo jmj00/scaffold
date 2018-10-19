@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import pytest
+
 from scaffold.skeleton import fib
 
 __author__ = "Jacob Malte Jensen"
