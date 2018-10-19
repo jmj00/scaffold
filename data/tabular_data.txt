@@ -1,2 +1,0 @@
-parameter	variable	note
-alpha	phi	this is terrible data
